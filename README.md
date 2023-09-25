@@ -1,62 +1,14 @@
-<a name="readme-top"></a>
+Onyxswap
+Onyxswap is an innovative crypto asset management app that empowers users to securely store their cryptocurrency assets and effortlessly pay bills using various cryptocurrencies. It is designed to simplify transactions and offer a seamless experience for handling digital currencies.
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
+Features
+Crypto Asset Management: Easily receive and send various cryptocurrencies within the app.
+Bill Payments: Streamlined process to pay bills using supported cryptocurrencies, enhancing convenience and flexibility.
 
--->
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <!-- <a href="https://github.com/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
+![Screenshot from 2023-09-25 16-58-16](https://github.com/afolabidamilare08/OnyxWeb/assets/66940336/4146183e-109b-4984-85b0-57b730763fb2)
 
-  <h3 align="center">Onyx</h3>
+![Screenshot from 2023-09-25 16-58-21](https://github.com/afolabidamilare08/OnyxWeb/assets/66940336/44ba24a5-8fde-4f16-9d9f-4a826ba9dd90)
+![Screenshot from 2023-09-25 16-58-25](https://github.com/afolabidamilare08/OnyxWeb/assets/66940336/5e302fc4-b11d-46b1-a816-11e23bb684e1)
 
-  <p align="center">
-     Onyxswap is the easiest and fastest place to buy, sell and hold cryptocurrency.
-    <br />
-    <a href="#"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="#">View Demo</a>
-    ·
-    <a href="#">Report Bug</a>
-    ·
-    <a href="#">Request Feature</a>
-  </p>
-</div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
+![Uploading Screenshot from 2023-09-25 16-58-34.png…]()
